@@ -48,6 +48,7 @@ This document outlines the database design for a new social networking platform 
 - **Knowledge Sharing:** Facilitates the exchange of insights and advice.
 - **Community Support:** Offers a community for support and collaboration on projects and interests.
 - **Career Advancement:** Acts as a tool for career development and opportunities.
+- **Resource Sharing:** The platform can facilitate the sharing of resources like study materials, job postings, or event information relevant to students and alumni.
 
 ## Challenges
 
@@ -55,6 +56,8 @@ This document outlines the database design for a new social networking platform 
 - **Data Privacy:** Protecting user data and ensuring privacy compliance is essential.
 - **Scalability:** The design must scale with the growing number of users and content.
 - **Content Moderation:** Implementing effective moderation to prevent misuse.
+- **Monetization:** Finding a sustainable business model that does not compromise the user experience can be challenging, especially if the platform is to remain free for users.
+
 
 ## Conclusion
 
